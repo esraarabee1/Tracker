@@ -14,7 +14,6 @@ Tracker is a simple task management web application built using **React**, **Tai
 
 ✅ **💾 Local Storage Support**: All tasks are saved locally to prevent data loss.
 
-✅ **📱 Responsive UI**: Styled with Tailwind CSS for a modern look and mobile-friendly experience.
 
 ---
 
