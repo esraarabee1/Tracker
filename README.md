@@ -40,7 +40,7 @@ Tracker is a simple task management web application built using **React**, **Tai
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/esraarabee1/TracerTask.git
+   git clone https://github.com/esraarabee1/Tracker.git
    cd TracerTask
    ```
 
@@ -63,12 +63,6 @@ Tracker is a simple task management web application built using **React**, **Tai
 2. ✏️ Edit or 🗑 Delete a task using the respective buttons.
 3. 🔄 Drag and drop tasks between the **To-Do** and **Completed** sections.
 4. 🔄 Refresh the page, and your tasks will persist!
-
----
-
-## 📁 Project Structure
-
-```
 
 ---
 ```
